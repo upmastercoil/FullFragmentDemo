@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Full Fragment Demo</string>
+
+    <!--Layout Strings-->
+    <string name="add">ADD</string>
+
+    <!--Tab Strings-->
+    <string name="employees">Employees</string>
+    <string name="equipments">Equipments</string>
+    <string name="todo">ToDo</string>
+
+    <!--Dialog Strings-->
+    <string name="add_equipment_title">Add Equipment</string>
+    <string name="first_input_equipment_description">Enter description</string>
+    <string name="second_input_equipment_manufacturer">Enter manufacturer</string>
+
+    <string name="add_employee_title">Add Employee</string>
+    <string name="first_input_employee_name">Enter name</string>
+    <string name="second_input_employee_department">Enter department</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
